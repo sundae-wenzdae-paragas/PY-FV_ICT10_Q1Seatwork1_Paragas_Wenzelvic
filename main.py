@@ -33,9 +33,6 @@ display(favfruits)
 daysofweek = ('monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday') #tuple
 display(daysofweek)
 
-def calculate(event): 
 
-num1 = 
-num2 = 
 
 
