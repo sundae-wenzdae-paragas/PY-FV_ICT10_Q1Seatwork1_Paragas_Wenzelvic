@@ -21,7 +21,7 @@ display(student_type)
 
 about_me = {
     'color':'Violet',
-    'car_Brand':'Honda',
+    'car_brand':'Honda',
     'shoe-size': 8.5,
     'best_friend':'Jeremiah Velasco'
     } #dict
@@ -32,4 +32,10 @@ display(favfruits)
 
 daysofweek = ('monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday') #tuple
 display(daysofweek)
+
+def calculate(event): 
+
+num1 = 
+num2 = 
+
 
